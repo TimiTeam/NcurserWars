@@ -92,9 +92,9 @@ bool compare(SpaceObject bullet, SpaceObject meteor)
 
 void StarShip::bulletChangeState(int maxWinX, AsteroidHorde &as)
 {
-    int character;
-    int charsTwo;
-    int charsThree;
+    long long character;
+    long long charsTwo;
+    long long charsThree;
     for (int i = 0; i < 50; i++)
     {
         if (this->bullet[i].getInGame() == true)
@@ -176,7 +176,7 @@ void StarShip::resetStarShip()
 
 bool StarShip::checkCollision(AsteroidHorde &as)
 {
-    int charact;
+    long long charact;
     char symbol;
     symbol = as.getMeteors()[0].getSymbol();
     bool run = true;
