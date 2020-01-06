@@ -5,5 +5,7 @@ Its was end of first week cpp piscine (intensive study of c++ language). Our tas
 Work on a Unix system. The system must have an ncurses library;
 
 To make it possible to play just do the following steps:
-In terminal type: 'make'.
-Then type: './NcurserWars' and enjoy the game!
+In terminal type: 
+1) 'make'. <br>
+2) './NcurserWars' and enjoy the game!
+<br>
