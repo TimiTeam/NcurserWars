@@ -10,4 +10,6 @@ In root directory type:
 2) ./NcurserWars <br>
 3) Enjoy the game!
 <br>
+Arrows to move<br>
+Space to shooting<br>
 <img src="screenShot.png" alt="screenShot">
