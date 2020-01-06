@@ -9,7 +9,7 @@ In root directory type:
 1) make <br>
 2) ./NcurserWars <br>
 3) Enjoy the game!
-<br>
 Arrows to move<br>
 Space to shooting<br>
+<br>
 <img src="screenShot.png" alt="screenShot">
