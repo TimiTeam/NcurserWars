@@ -10,4 +10,4 @@ In root directory type:
 2) ./NcurserWars <br>
 3) Enjoy the game!
 <br>
-<img src="ScreenShot.png" alt="screenShot">
+<img src="screenShot.png" alt="screenShot">
